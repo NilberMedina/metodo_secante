@@ -1,0 +1,19 @@
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\metodo secante.exe
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\metodo secante.deps.json
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\metodo secante.runtimeconfig.json
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\metodo secante.dll
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\metodo secante.pdb
+D:\metodos numericos\metodo secante\bin\Debug\net8.0-windows\NCalc.dll
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.csproj.AssemblyReference.cache
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo_secante.Form1.resources
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.csproj.GenerateResource.cache
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.GeneratedMSBuildEditorConfig.editorconfig
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.AssemblyInfoInputs.cache
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.AssemblyInfo.cs
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.csproj.CoreCompileInputs.cache
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo s.D1FCE40C.Up2Date
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.dll
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\refint\metodo secante.dll
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.pdb
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\metodo secante.genruntimeconfig.cache
+D:\metodos numericos\metodo secante\obj\Debug\net8.0-windows\ref\metodo secante.dll
